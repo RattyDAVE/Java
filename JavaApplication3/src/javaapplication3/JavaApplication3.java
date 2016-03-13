@@ -10,7 +10,6 @@ package javaapplication3;
  * @author dave
  */
 
-
 public class JavaApplication3 {
 
     /**
